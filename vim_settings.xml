@@ -6,19 +6,47 @@
       <file name="/Dummy.txt" timestamp="1556441884429">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" timestamp="1556444669743">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="8" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="38" column="8" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1533964258094">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="31" column="3" filename="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ZmkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">bXYgLXYgMC5qcGcgMDAuanBnCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>0</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
