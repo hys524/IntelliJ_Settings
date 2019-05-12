@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1556441884429">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/cropSS.sh" timestamp="1557672483379">
+        <mark key="[" line="46" column="2" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" timestamp="1556444669743">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="38" column="8" />
@@ -26,10 +32,13 @@
         <text encoding="base64">ZmkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bXYgLXYgMC5qcGcgMDAuanBnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">bXYgLXYgMC5qcGcgMDAuanBnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
