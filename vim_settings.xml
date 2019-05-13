@@ -18,11 +18,11 @@
       <file name="/fragment.py" timestamp="1557752359835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IntelliJIDEAProjects/comicScreenshot/comicScreenshot.py" timestamp="1557755555192">
-        <mark key="[" line="19" column="70" />
-        <mark key="]" line="19" column="71" />
-        <mark key="^" line="17" column="69" />
-        <mark key="." line="19" column="71" />
+      <file name="$USER_HOME$/IntelliJIDEAProjects/comicScreenshot/comicScreenshot.py" timestamp="1557757226696">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
       </file>
       <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" timestamp="1556444669743">
         <mark key="'" line="0" column="0" />
@@ -40,41 +40,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW1hZ2VTaXplKQo=</text>
+      <register name="&quot;" type="4">
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgJywgJyArIA==</text>
+        <text>''</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICsgJywgJyArIA==</text>
+        <text>screenshot</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaW1hZ2VTaXplKQo=</text>
+        <text encoding="base64">ICAgIHNpemUgPSBpbnQoc3lzLmFyZ3ZbMV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2l6ZTIpCg==</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZSkK</text>
+        <text encoding="base64">ICAgIGlmIHNpemUgPT0gMDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNobGV4Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlU2l6ZSA9IDI0MDAgLSBzaXplMgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNpemUyID0gc2l6ZSAqIDIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgojIGltcG9ydCBzaGxleAojIGltcG9ydCBzdWJwcm9jZXNzCiMgY21kID0gJ2xzIHRtcCcKIyB0b2tlbnMgPSBzaGxleC5zcGxpdChjbWQpICMgPT4gWydscycsICd0bXAnXQojIHN1YnByb2Nlc3MucnVuKHRva2VucykKIyBzdWJwcm9jZXNzLnJ1bihbJ2xzJywgJ3RtcCddKQoKIyAjIOeUu+WDj+OBruW3puWPs+OBi+OCieaMh+WumuOBruOCteOCpOOCuuOCkuOCr+ODreODg+ODlwojIGlmIFtbICR7c2l6ZX0gLWd0IDAgXV0KIyB0aGVuCiMgeTA9YGV4cHIgJHtzaXplfWAKIyB5MT1gZXhwciAke3kwfSBcKiAyYAojIHkyPWBleHByIDI0MDAgLSAke3kxfWAKIyBlY2hvICR7eTB9CiMgZWNobyAke3kxfQojIGVjaG8gJHt5Mn0KIyBlY2hvICJnbSBjb252ZXJ0ICoucG5nIC1jcm9wICR7eTJ9eDE2MDArJHt5MH0rMCAtcXVhbGl0eSA5NSAlMDNkLmpwZyIKIyBnbSBjb252ZXJ0ICoucG5nIC1jcm9wICR7eTJ9eDE2MDArJHt5MH0rMCAtcXVhbGl0eSA5NSAlMDNkLmpwZwojIGZpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaXplID0gaW50KHN5cy5hcmd2WzFdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbWQgPSBbJ2NvbnZlcnQnLCAnKi5wbmcnLCAnLWNyb3AnLCBjcm9wU2l6ZSwgJy1xdWFsaXR5JywgJzk1JywgJyUwM2QuanBnJ10K</text>
+        <text encoding="base64">ICAgIGlmIHNpemUgPT0gMDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0b2tlbnMgPSBzaGxleC5zcGxpdChjbWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbWQgPSAiY29udmVydCAqLnBuZyAtY3JvcCAke3kyfXgxNjAwKyR7eTB9KzAgLXF1YWxpdHkgOTUgJTAzZC5qcGciCg==</text>
+        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
