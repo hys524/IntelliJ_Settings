@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1556441884429">
+      <file name="/Dummy.txt" timestamp="1557751699554">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/cropSS.sh" timestamp="1557672653407">
@@ -11,6 +11,15 @@
         <mark key="]" line="10" column="36" />
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="36" />
+      </file>
+      <file name="/Python Console" timestamp="1557751707848">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IntelliJIDEAProjects/comicScreenshot/comicScreenshot.py" timestamp="1557751671304">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="65" />
+        <mark key="^" line="23" column="65" />
+        <mark key="." line="23" column="65" />
       </file>
       <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" timestamp="1556444669743">
         <mark key="'" line="0" column="0" />
@@ -28,23 +37,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ZmkK</text>
+      <register name="&quot;" type="4">
+        <text>b</text>
+      </register>
+      <register name="-" type="4">
+        <text>b</text>
+      </register>
+      <register name="0" type="4">
+        <text>convert *.png -crop ${y2}x1600+${y0}+0 -quality 95 %03d.jpg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>もて</text>
-      </register>
       <register name="2" type="2">
-        <text encoding="base64">bXYgLXYgMC5qcGcgMDAuanBnCg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQob3MuZ2V0Y3dkKCkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNpemUpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjcm9wV2lkdGggPSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>もて</text>
       </register>
     </registers>
     <search>
