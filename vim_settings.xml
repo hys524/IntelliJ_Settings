@@ -18,11 +18,11 @@
       <file name="/fragment.py" timestamp="1557752359835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IntelliJIDEAProjects/comicScreenshot/comicScreenshot.py" timestamp="1557760035578">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="12" column="21" />
+      <file name="$USER_HOME$/IntelliJIDEAProjects/comicScreenshot/comicScreenshot.py" timestamp="1557847776086">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" timestamp="1556444669743">
         <mark key="'" line="0" column="0" />
@@ -41,40 +41,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>os.path.dirname()</text>
+        <text>$USER_HOME$</text>
       </register>
       <register name="-" type="4">
-        <text>os.path.dirname()</text>
+        <text>$USER_HOME$</text>
       </register>
       <register name="0" type="4">
         <text>os.path.dirname()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNpemUgPSBpbnQoc3lzLmFyZ3ZbMV0pCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWxzZToK</text>
+        <text encoding="base64">ICAgIHNpemUgPSBpbnQoc3lzLmFyZ3ZbMV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHNpemUgPT0gMDoK</text>
+        <text encoding="base64">ZWxzZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltYWdlU2l6ZSA9IDI0MDAgLSBzaXplMgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNpemUyID0gc2l6ZSAqIDIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplID0gaW50KHN5cy5hcmd2WzFdKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIHNpemUgPT0gMDoK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltYWdlU2l6ZSA9IDI0MDAgLSBzaXplMgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNpemUyID0gc2l6ZSAqIDIK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzaXplID0gaW50KHN5cy5hcmd2WzFdKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIHNpemUgPT0gMDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGdsb2IK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
