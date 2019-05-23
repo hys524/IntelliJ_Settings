@@ -18,11 +18,11 @@
       <file name="/fragment.py" timestamp="1557752359835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IntelliJIDEAProjects/comicScreenshot/comicScreenshot.py" timestamp="1558156868618">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="17" />
-        <mark key="^" line="30" column="17" />
-        <mark key="." line="30" column="17" />
+      <file name="$USER_HOME$/IntelliJIDEAProjects/comicScreenshot/comicScreenshot.py" timestamp="1558524704488">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="33" />
+        <mark key="^" line="41" column="33" />
+        <mark key="." line="41" column="33" />
       </file>
       <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" timestamp="1556444669743">
         <mark key="'" line="0" column="0" />
@@ -41,13 +41,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>85</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>85</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVsaWYgJ+eVsOS4lueVjOOBiuOBmOOBleOCkycgaW4gY3dkOgogICAgICAgIHNpemUgPSA4NQo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5ta2RpcignX3NjcmVlbnNob3QnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyAhL3Vzci9iaW4vZW52IHB5dGhvbgo=</text>
