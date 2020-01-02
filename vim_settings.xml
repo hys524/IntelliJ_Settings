@@ -1,115 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/IntelliJIDEAProjects/PythonScripts/kyuyo2tsv.py" timestamp="1561638651367">
-        <mark key="[" line="48" column="13" />
-        <mark key="]" line="48" column="16" />
-        <mark key="^" line="48" column="16" />
-        <mark key="." line="48" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1561635831057">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/cropSS.sh" timestamp="1557672653407">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-      </file>
-      <file name="/Python Console" timestamp="1561638231877">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1557752359835">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IntelliJIDEAProjects/comicScreenshot/comicScreenshot.py" timestamp="1558524704488">
-        <mark key="[" line="41" column="32" />
-        <mark key="]" line="41" column="33" />
-        <mark key="^" line="41" column="33" />
-        <mark key="." line="41" column="33" />
-      </file>
-      <file name="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" timestamp="1556444669743">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="8" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="38" column="8" />
-      </file>
-      <file name="$USER_HOME$/IntelliJIDEAProjects/JavaSilver/src/test.java" timestamp="1558869034886">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-      </file>
-      <file name="$USER_HOME$/IntelliJIDEAProjects/ImageSplit/ImageSplit.py" timestamp="1559908508781">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="18" column="30" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1533964258094">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="31" column="3" filename="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/Downloads/OnePlus6/Linux/scripts/010203.sh" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
-      </register>
-      <register name="-" type="4">
-        <text>'</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Um93c1s4MF0gKyAnXHQnICsgXAo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Um93c1swMF0gKyAnXHQnICsgXAogICAgICAgICAgICByZXN1bHRSb3dzWzAwXSArICdcdCcgKyBcCiAgICAgICAgICAgIHJlc3VsdFJvd3NbMDBdICsgJ1x0JyArIFwKICAgICAgICAgICAgcmVzdWx0Um93c1swMF0gKyAnXHQnICsgXAogICAgICAgICAgICByZXN1bHRSb3dzWzAwXSArICdcdCcgKyBcCiAgICAgICAgICAgIHJlc3VsdFJvd3NbMDBdCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1x0JyArIFwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1x0JyArIFwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1x0JyArIFwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1x0JyArIFwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1x0JyArIFwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1x0JyArIFwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0Um93c1swMF0gKyAnXHQnICsgXAo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
@@ -193,5 +84,10 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
